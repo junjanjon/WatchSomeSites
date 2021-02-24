@@ -6,6 +6,8 @@ repo: upptime # Your GitHub repository name
 sites:
   - name: kawaki
     url: https://www.pegasusknight.com
+  - name: chatwork-kcw
+    url: https://kcw.kddi.ne.jp/
   - name: lovelive-ss
     url: https://www.lovelive-ss.com
   - name: AROW
