@@ -1,7 +1,7 @@
 url: https://kcw.kddi.ne.jp/
-status: up
-code: 200
-responseTime: 917
-lastUpdated: 2021-06-18T23:10:33.793Z
+status: down
+code: 503
+responseTime: 758
+lastUpdated: 2021-06-19T19:02:06.365Z
 startTime: Wed Feb 24 2021 04:08:59 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
