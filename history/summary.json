@@ -63,7 +63,7 @@
     "uptime": "40.97%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.80%",
-    "uptimeMonth": "93.88%",
+    "uptimeMonth": "93.89%",
     "uptimeYear": "40.97%",
     "time": 584,
     "timeDay": 630,
@@ -219,19 +219,19 @@
     "url": "https://arow.world/ja/",
     "icon": "https://favicons.githubusercontent.com/arow.world",
     "slug": "arow",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.55%",
+    "uptimeWeek": "99.94%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
-    "time": 1058,
-    "timeDay": 439,
-    "timeWeek": 513,
-    "timeMonth": 771,
-    "timeYear": 1058,
+    "time": 1056,
+    "timeDay": 547,
+    "timeWeek": 527,
+    "timeMonth": 768,
+    "timeYear": 1056,
     "dailyMinutesDown": {
-      "2021-08-19": 0
+      "2021-08-19": 7
     }
   },
   {
