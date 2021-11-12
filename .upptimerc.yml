@@ -8,11 +8,11 @@ sites:
     url: https://www.pegasusknight.com
   - name: chatwork-kcw
     url: https://kcw.kddi.ne.jp/
-  - name: lovelive-ss
-    url: https://www.lovelive-ss.com
-    headers:
-      - "user-agent: bot"
-      - "referer: https://github.com/junjanjon/WatchSomeSites"
+#   - name: lovelive-ss
+#     url: https://www.lovelive-ss.com
+#     headers:
+#       - "user-agent: bot"
+#       - "referer: https://github.com/junjanjon/WatchSomeSites"
   - name: AROW
     url: https://arow.world/ja/
   - name: TID
