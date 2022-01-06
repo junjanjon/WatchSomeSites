@@ -17,9 +17,12 @@ sites:
     url: https://arow.world/ja/
   - name: TID
     url: https://tech.drecom.co.jp
+  - name: my-wiki-js
+    url: https://j-wiki.herokuapp.com/
   - name: Test for HEAD
     method: HEAD
     url: https://www.google.com
+    
 
 status-website:
   baseUrl: /WatchSomeSites
