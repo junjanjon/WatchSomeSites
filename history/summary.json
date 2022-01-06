@@ -102,19 +102,19 @@
     "url": "https://j-wiki.herokuapp.com/",
     "icon": "https://favicons.githubusercontent.com/j-wiki.herokuapp.com",
     "slug": "my-wiki-js",
-    "status": "down",
-    "uptime": "99.97%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "99.97%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "99.97%",
-    "time": 11573,
-    "timeDay": 11573,
-    "timeWeek": 11573,
-    "timeMonth": 11573,
-    "timeYear": 11573,
+    "status": "up",
+    "uptime": "97.19%",
+    "uptimeDay": "97.19%",
+    "uptimeWeek": "97.19%",
+    "uptimeMonth": "97.19%",
+    "uptimeYear": "97.19%",
+    "time": 8138,
+    "timeDay": 8138,
+    "timeWeek": 8138,
+    "timeMonth": 8138,
+    "timeYear": 8138,
     "dailyMinutesDown": {
-      "2022-01-06": 0
+      "2022-01-06": 26
     }
   },
   {
