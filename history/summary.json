@@ -11,9 +11,9 @@
     "uptimeMonth": "99.34%",
     "uptimeYear": "99.81%",
     "time": 788,
-    "timeDay": 893,
-    "timeWeek": 695,
-    "timeMonth": 820,
+    "timeDay": 833,
+    "timeWeek": 732,
+    "timeMonth": 819,
     "timeYear": 792,
     "dailyMinutesDown": {
       "2022-01-09": 22,
@@ -33,8 +33,7 @@
       "2021-03-12": 18,
       "2021-03-11": 3,
       "2021-02-25": 23,
-      "2021-01-28": 37,
-      "2021-01-20": 265
+      "2021-01-28": 37
     }
   },
   {
@@ -49,9 +48,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.87%",
     "time": 1188,
-    "timeDay": 903,
-    "timeWeek": 1324,
-    "timeMonth": 1124,
+    "timeDay": 1410,
+    "timeWeek": 1295,
+    "timeMonth": 1132,
     "timeYear": 1188,
     "dailyMinutesDown": {
       "2021-07-31": 64,
@@ -73,11 +72,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 886,
-    "timeDay": 592,
-    "timeWeek": 609,
+    "time": 885,
+    "timeDay": 460,
+    "timeWeek": 583,
     "timeMonth": 570,
-    "timeYear": 874,
+    "timeYear": 872,
     "dailyMinutesDown": {}
   },
   {
@@ -91,11 +90,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 916,
-    "timeDay": 799,
-    "timeWeek": 919,
-    "timeMonth": 906,
-    "timeYear": 916,
+    "time": 915,
+    "timeDay": 685,
+    "timeWeek": 861,
+    "timeMonth": 902,
+    "timeYear": 915,
     "dailyMinutesDown": {}
   },
   {
@@ -104,16 +103,16 @@
     "icon": "https://favicons.githubusercontent.com/j-wiki.herokuapp.com",
     "slug": "my-wiki-js",
     "status": "up",
-    "uptime": "99.86%",
+    "uptime": "99.87%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.86%",
-    "uptimeYear": "99.86%",
-    "time": 1934,
-    "timeDay": 753,
-    "timeWeek": 348,
-    "timeMonth": 1934,
-    "timeYear": 1934,
+    "uptimeMonth": "99.87%",
+    "uptimeYear": "99.87%",
+    "time": 1840,
+    "timeDay": 332,
+    "timeWeek": 383,
+    "timeMonth": 1840,
+    "timeYear": 1840,
     "dailyMinutesDown": {
       "2022-01-06": 26
     }
@@ -130,8 +129,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 52,
-    "timeDay": 46,
-    "timeWeek": 42,
+    "timeDay": 47,
+    "timeWeek": 45,
     "timeMonth": 46,
     "timeYear": 52,
     "dailyMinutesDown": {}
