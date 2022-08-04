@@ -87,9 +87,9 @@
     "url": "https://tech.drecom.co.jp",
     "icon": "https://favicons.githubusercontent.com/tech.drecom.co.jp",
     "slug": "tid",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
@@ -99,6 +99,7 @@
     "timeMonth": 937,
     "timeYear": 947,
     "dailyMinutesDown": {
+      "2022-08-04": 0,
       "2022-05-12": 18,
       "2022-05-06": 21
     }
@@ -109,11 +110,11 @@
     "icon": "https://favicons.githubusercontent.com/j-wiki.herokuapp.com",
     "slug": "my-wiki-js",
     "status": "up",
-    "uptime": "89.40%",
+    "uptime": "89.42%",
     "uptimeDay": "97.98%",
     "uptimeWeek": "59.85%",
     "uptimeMonth": "90.76%",
-    "uptimeYear": "89.40%",
+    "uptimeYear": "89.42%",
     "time": 1928,
     "timeDay": 4184,
     "timeWeek": 2513,
