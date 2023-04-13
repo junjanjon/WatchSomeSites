@@ -4,10 +4,10 @@ repo: WatchSomeSites # Your GitHub repository name
 
 # Add your sites here
 sites:
-  - name: kawaki
-    url: https://www.pegasusknight.com
-  - name: chatwork-kcw
-    url: https://kcw.kddi.ne.jp/
+#   - name: kawaki
+#     url: https://www.pegasusknight.com
+#   - name: chatwork-kcw
+#     url: https://kcw.kddi.ne.jp/
 #   - name: lovelive-ss
 #     url: https://www.lovelive-ss.com
 #     headers:
@@ -17,8 +17,8 @@ sites:
     url: https://arow.world/ja/
   - name: TID
     url: https://tech.drecom.co.jp
-  - name: my-wiki-js
-    url: https://j-wiki.herokuapp.com/
+#   - name: my-wiki-js
+#     url: https://j-wiki.herokuapp.com/
   - name: Test for HEAD
     method: HEAD
     url: https://www.google.com
