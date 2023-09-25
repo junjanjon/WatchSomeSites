@@ -42,17 +42,19 @@
     "url": "https://www.google.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.google.com.ico",
     "slug": "test-for-head",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 69,
-    "timeDay": 26,
-    "timeWeek": 78,
-    "timeMonth": 89,
+    "timeDay": 80,
+    "timeWeek": 85,
+    "timeMonth": 91,
     "timeYear": 68,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-09-25": 0
+    }
   }
 ]
