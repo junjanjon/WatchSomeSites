@@ -24,18 +24,20 @@
     "url": "https://tech.drecom.co.jp",
     "icon": "https://icons.duckduckgo.com/ip3/tech.drecom.co.jp.ico",
     "slug": "tid",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 965,
-    "timeDay": 1064,
-    "timeWeek": 935,
-    "timeMonth": 989,
-    "timeYear": 968,
-    "dailyMinutesDown": {}
+    "time": 964,
+    "timeDay": 903,
+    "timeWeek": 911,
+    "timeMonth": 981,
+    "timeYear": 967,
+    "dailyMinutesDown": {
+      "2023-12-11": 0
+    }
   },
   {
     "name": "Test for HEAD",
