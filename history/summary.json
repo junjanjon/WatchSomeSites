@@ -11,13 +11,11 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
     "time": 677,
-    "timeDay": 722,
-    "timeWeek": 707,
-    "timeMonth": 719,
+    "timeDay": 564,
+    "timeWeek": 682,
+    "timeMonth": 715,
     "timeYear": 688,
-    "dailyMinutesDown": {
-      "2023-01-27": 139
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "TID",
@@ -30,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 966,
-    "timeDay": 966,
-    "timeWeek": 998,
-    "timeMonth": 976,
-    "timeYear": 977,
+    "time": 967,
+    "timeDay": 967,
+    "timeWeek": 982,
+    "timeMonth": 971,
+    "timeYear": 978,
     "dailyMinutesDown": {}
   },
   {
@@ -49,8 +47,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 64,
-    "timeDay": 39,
-    "timeWeek": 37,
+    "timeDay": 40,
+    "timeWeek": 38,
     "timeMonth": 39,
     "timeYear": 63,
     "dailyMinutesDown": {}
