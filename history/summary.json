@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/arow.world.ico",
     "slug": "arow",
     "status": "up",
-    "uptime": "99.98%",
+    "uptime": "99.99%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 722,
-    "timeDay": 423,
-    "timeWeek": 476,
-    "timeMonth": 481,
-    "timeYear": 720,
+    "time": 721,
+    "timeDay": 669,
+    "timeWeek": 491,
+    "timeMonth": 487,
+    "timeYear": 719,
     "dailyMinutesDown": {
       "2024-08-15": 55
     }
@@ -31,9 +31,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 999,
-    "timeDay": 1151,
-    "timeWeek": 1053,
-    "timeMonth": 1066,
+    "timeDay": 1197,
+    "timeWeek": 1068,
+    "timeMonth": 1078,
     "timeYear": 1009,
     "dailyMinutesDown": {}
   },
@@ -49,9 +49,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 64,
-    "timeDay": 39,
-    "timeWeek": 87,
-    "timeMonth": 81,
+    "timeDay": 41,
+    "timeWeek": 73,
+    "timeMonth": 80,
     "timeYear": 68,
     "dailyMinutesDown": {}
   }
