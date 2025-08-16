@@ -4,18 +4,20 @@
     "url": "https://arow.world/ja/",
     "icon": "https://icons.duckduckgo.com/ip3/arow.world.ico",
     "slug": "arow",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 675,
+    "time": 676,
     "timeDay": 419,
     "timeWeek": 420,
     "timeMonth": 412,
     "timeYear": 674,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-08-16": 0
+    }
   },
   {
     "name": "TID",
