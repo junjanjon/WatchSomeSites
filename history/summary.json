@@ -6,18 +6,16 @@
     "slug": "arow",
     "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.25%",
-    "uptimeWeek": "99.89%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 664,
-    "timeDay": 578,
-    "timeWeek": 557,
-    "timeMonth": 626,
-    "timeYear": 649,
-    "dailyMinutesDown": {
-      "2025-10-06": 11
-    }
+    "time": 663,
+    "timeDay": 400,
+    "timeWeek": 534,
+    "timeMonth": 624,
+    "timeYear": 648,
+    "dailyMinutesDown": {}
   },
   {
     "name": "TID",
@@ -30,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1012,
-    "timeDay": 1059,
-    "timeWeek": 970,
-    "timeMonth": 992,
-    "timeYear": 1018,
+    "time": 1011,
+    "timeDay": 725,
+    "timeWeek": 935,
+    "timeMonth": 985,
+    "timeYear": 1017,
     "dailyMinutesDown": {}
   },
   {
@@ -48,9 +46,9 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 65,
-    "timeDay": 56,
-    "timeWeek": 66,
+    "time": 66,
+    "timeDay": 59,
+    "timeWeek": 62,
     "timeMonth": 60,
     "timeYear": 68,
     "dailyMinutesDown": {}
