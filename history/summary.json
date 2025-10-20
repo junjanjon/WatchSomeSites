@@ -4,19 +4,19 @@
     "url": "https://arow.world/ja/",
     "icon": "https://icons.duckduckgo.com/ip3/arow.world.ico",
     "slug": "arow",
-    "status": "down",
+    "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.38%",
+    "uptimeWeek": "99.91%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
     "time": 660,
-    "timeDay": 548,
-    "timeWeek": 706,
-    "timeMonth": 574,
+    "timeDay": 664,
+    "timeWeek": 716,
+    "timeMonth": 581,
     "timeYear": 636,
     "dailyMinutesDown": {
-      "2025-10-20": 0
+      "2025-10-20": 9
     }
   },
   {
