@@ -6,18 +6,16 @@
     "slug": "arow",
     "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.38%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 660,
-    "timeDay": 664,
-    "timeWeek": 716,
-    "timeMonth": 581,
-    "timeYear": 636,
-    "dailyMinutesDown": {
-      "2025-10-20": 9
-    }
+    "time": 664,
+    "timeDay": 1718,
+    "timeWeek": 951,
+    "timeMonth": 646,
+    "timeYear": 642,
+    "dailyMinutesDown": {}
   },
   {
     "name": "TID",
@@ -31,9 +29,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1013,
-    "timeDay": 1165,
+    "timeDay": 1130,
     "timeWeek": 1052,
-    "timeMonth": 1010,
+    "timeMonth": 1012,
     "timeYear": 1019,
     "dailyMinutesDown": {}
   },
@@ -49,8 +47,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 67,
-    "timeDay": 43,
-    "timeWeek": 87,
+    "timeDay": 48,
+    "timeWeek": 86,
     "timeMonth": 65,
     "timeYear": 68,
     "dailyMinutesDown": {}
