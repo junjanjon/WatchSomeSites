@@ -22,19 +22,19 @@
     "url": "https://tech.drecom.co.jp",
     "icon": "https://icons.duckduckgo.com/ip3/tech.drecom.co.jp.ico",
     "slug": "tid",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "98.79%",
+    "uptimeWeek": "99.83%",
+    "uptimeMonth": "99.96%",
     "uptimeYear": "100.00%",
-    "time": 1013,
-    "timeDay": 974,
-    "timeWeek": 1066,
-    "timeMonth": 991,
+    "time": 1012,
+    "timeDay": 999,
+    "timeWeek": 1064,
+    "timeMonth": 993,
     "timeYear": 1019,
     "dailyMinutesDown": {
-      "2025-12-10": 0
+      "2025-12-10": 17
     }
   },
   {
